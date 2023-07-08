@@ -2,7 +2,7 @@
 SELECT
     c.car_id
   , c.type
-  , SUM(c.cost_$) AS total_revenue
+  , SUM(c.cost_$) AS total_revenue_by_car
 FROM
   cars AS c
 INNER JOIN
