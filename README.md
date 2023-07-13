@@ -1,5 +1,5 @@
 # Projetos
-Projetos de Portfolio
+Projetos de Portfólio
 
 Aqui estão meus principais projetos para auxiliar a divulgar meu trabalho, habilidades e demais atribuições. Aqui você encontra Projetos voltados para Data Science, focando nas liguagens de programação SQL e Python, ao mesmo passo que é possível encontrar visualizações de dados realizadas em Power BI.
 
