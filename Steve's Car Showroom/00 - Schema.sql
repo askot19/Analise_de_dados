@@ -1,3 +1,6 @@
+-- The Schema is basically our building of our database, this will serve as model, specification and organization of the database which will make the data serve for future analysis, studies and answering business questions.
+-- O Schema é basicamente a montagem do nosso banco de dados, ele vai servir para modelar, especificar e organizar o banco de forma que as informações nos sirvam para análises e estudos futuros, além de responder questões de negócios.
+
 CREATE TABLE cars (
 car_id INT PRIMARY KEY,
 make VARCHAR(50),
