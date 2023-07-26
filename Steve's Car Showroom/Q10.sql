@@ -1,4 +1,8 @@
 -- 10. What is the name and age of the salesperson who generated the highest revenue in the year 2022?
+-- 10. Qual o nome e a idade da pessoa que gerou a maior receita no ano de 2022?
+
+-- Esta questão nos permite identificar as características associadas ao funcionário com maior faturamento, elas pondem indicar um perfil de funcionário para contratações futuras. Contudo, devemos tomar cuidado para que o rastreamento deste perfil não esteja enviesado.
+
 SELECT
     sp.name
   , sp.age
