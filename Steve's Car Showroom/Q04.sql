@@ -1,4 +1,8 @@
 -- 4. What are the details of the cars sold by each salesperson?
+-- 4. Quais são os detalhes dos carros vendidos por cada funcionário?
+
+-- Permite identificarmos se os funcionários estão mais familiarizados com algum tipo/modelo de carro específico. É possível identificar vieses inconscientes que prejudiquem as vendas, ou até mesmo classificar equipes mais eficazes nas vendas de acordo com os tipos e modelos que os funcionários mais vendem.
+
 SELECT
    sp.name
  , c.*
