@@ -1,3 +1,5 @@
+-- Schema é a construção do nosso Banco de Dados, é nele onde são inseridos os campos e registros para armazenar os dados para responder futuras análises.
+
 CREATE TABLE Teams (
 team_id INT PRIMARY KEY,
 team_name VARCHAR(50) NOT NULL,
