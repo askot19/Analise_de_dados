@@ -12,3 +12,5 @@ Projeto desenvolvido em SQL para responder questionamentos acerca de um Torneio 
 8. Qual o time com o maior número de vitórias?
 9. Quais os nomes dos times e a quantidade de jogadores que possuem salários maiores que U$100.000?
 10. Qual a data e os resultados da partida com o código match_id = 3?
+
+As análises foram realizdas de maneira objetiva com o intuito de responder os questionamentos da empresa e explicar no que elas auxiliam em tomadas de decisões.
