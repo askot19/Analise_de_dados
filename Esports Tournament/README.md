@@ -1,4 +1,4 @@
-# Esports Tournament
+# Esports Tournament (SQL)
 ---
 Projeto desenvolvido em SQL para responder questionamentos acerca de um Torneio de E-Sports
 
