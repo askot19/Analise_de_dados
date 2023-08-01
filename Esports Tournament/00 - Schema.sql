@@ -1,3 +1,4 @@
+-- The Schema is basically our building of our database, this will serve as model, specification and organization of the database which will make the data serve for future analysis, studies and answering business questions.
 -- Schema é a construção do nosso Banco de Dados, é nele onde são inseridos os campos e registros para armazenar os dados para responder futuras análises.
 
 CREATE TABLE Teams (
