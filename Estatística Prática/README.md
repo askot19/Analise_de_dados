@@ -6,3 +6,5 @@ A bibliografia básica deste desenvolvimento é o livro ***Estatística Prática
 O livro consiste na explicação e aplicação de conceitos de estatísticos para análise e modelagem de dados através da **linguagem R**, contudo, decidi me especializar na **linguagem Python**, o que me obriga a realizar a tradução dos exercícios e exemplos para a minha linguagem de formação. Um exercício de lógica e adaptação de conceitos que muito favorece o meu aprofundamento nos conceitos.
 
 Sendo assim, este é um Projeto de longo prazo, o qual pretendo utilizar como alicerce dos meus conhecimentos e como base de consulta para aplicações futuras.
+
+![Estatística Prática](https://github.com/askot19/Analise_de_dados/assets/127543378/aa04847e-ef89-46dd-a0a8-ea34107560b6)
